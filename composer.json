@@ -1,0 +1,21 @@
+{
+    "name": "gud3/yii2-ara",
+    "description": "Overridden classes AR for easy use",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgenii Kirichenko",
+            "email": "gud3.ini@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "gud3\\ar\\": ""
+        }
+    }
+}
