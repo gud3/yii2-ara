@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "gud3\\ar\\": ""
+            "gud3\\ar\\": "src/"
         }
     }
 }
